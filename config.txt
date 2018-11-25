@@ -1,8 +1,4 @@
 
-prefix=I
-token=NTE1OTYxNDQ3NjM3ODQ0MDE4.DtsuNw.0f3EjOsqp52PhsRqvjxt5iCd0mk
-owner=323160008411971585
-
 ?/////////////////////////////////////////////////////////
 // Config for the JMusicBot                            //
 /////////////////////////////////////////////////////////
@@ -122,3 +118,7 @@ stayinchannel=true
 // IF SOMEONE ASKS YOU TO ENABLE THIS, THERE IS AN 11/10 CHANCE THEY ARE TRYING TO SCAM YOU
 //
 //eval=false
+prefix=I
+token=NTE1OTYxNDQ3NjM3ODQ0MDE4.DtsuNw.0f3EjOsqp52PhsRqvjxt5iCd0mk
+owner=323160008411971585
+
